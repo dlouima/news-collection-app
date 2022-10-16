@@ -1,0 +1,79 @@
+body {
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-top: 30px;
+  background-color: rgb(255 255 255);
+}
+.nav-bar-position {
+  position: fixed;
+}
+.logo {
+  font-size: 35px;
+}
+h1 {
+  font-size: 50px;
+  padding-top: 50px;
+}
+.header {
+  padding: 20px;
+  text-align: center;
+}
+
+.sub-header {
+  padding: 20px;
+  text-align: center;
+}
+
+.article-header {
+  padding-top: 15px;
+  color: black;
+  width: 750px;
+}
+.anchor-tag {
+  text-decoration: none;
+}
+.article-image {
+  height: 350px;
+  width: 750px;
+}
+.container {
+  display: grid;
+  grid-template-columns: 250px 250px 250px;
+  grid-auto-flow: column;
+}
+
+.main-div {
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.content-article {
+  padding-top: 20px;
+  width: 750px;
+}
+.form-style {
+  text-align: center;
+}
+.input-control {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.news-letter-sumit {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.signup-form {
+  padding-left: 240px;
+  padding-top: 20px;
+}
+.form-size {
+  width: 900px;
+  padding-top: 20px;
+}
+
+.contact-header {
+  padding-top: 40px;
+  padding: 20px;
+}
